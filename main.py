@@ -8,9 +8,10 @@ useless app imaginable to /output/entry.txt. Standard library only.
 import os
 
 PITCH = (
-    "Shelfie is the $4.99-a-month app that photographs your bookshelf, "
-    "grades every spine by color harmony, and emails you a weekly report "
-    "ranking the books your guests will assume you have actually read."
+    "Shelfie is the $4.99-a-month app that scans your bookshelf, "
+    "grades each spine by color harmony, and emails a ranking of the "
+    "books your guests will assume you have read, so your lies about "
+    "Infinite Jest finally have data."
 )
 
 
